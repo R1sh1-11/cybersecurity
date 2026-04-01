@@ -1,7 +1,6 @@
 # Cybersecurity Labs & Tools
 
-Hands-on cybersecurity projects focused on offensive tooling, network analysis, and security concepts.  
-All tools are built for **educational purposes only** on systems I own or have explicit permission to test.
+Hands-on cybersecurity projects focused on offensive tooling, network analysis, and security concepts. 
 
 ---
 
@@ -12,4 +11,4 @@ All tools are built for **educational purposes only** on systems I own or have e
 
 ---
 
-> 🔒 More labs coming as I work through network defense, SIEM configuration, and log analysis projects.
+> More labs coming as I work through projects and get free time...
